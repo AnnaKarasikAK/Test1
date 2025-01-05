@@ -6,4 +6,8 @@ public class ExampleTest {
     public void loginTest(){
 
     }
+    @Test
+    public void loginTest1(){
+
+    }
 }
